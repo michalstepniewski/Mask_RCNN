@@ -1,5 +1,5 @@
 # Data files and directories common in repo root
-datasets/
+datasets/*
 logs/
 *.h5
 results/
@@ -56,3 +56,4 @@ pip-delete-this-directory.txt
 .venv
 venv/
 ENV/
+datasets/nucleus/*
